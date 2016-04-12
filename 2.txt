@@ -1,0 +1,8 @@
+Type ADIDAS STAN SMITH
+Type [ENTER]
+Wait "{ImageFolder}/1460452973190.png"
+MouseScroll -15
+Click "{ImageFolder}/1460457520841.png" 11 59
+Wait 2000
+Click "{ImageFolder}/1460457674206.png" 36 53
+Wait "{ImageFolder}/1460452973190.png"

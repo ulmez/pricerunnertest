@@ -1,0 +1,14 @@
+Begin "Settings"
+	Region 1
+	AnimateCursor No
+End
+Call 1.txt
+Call 2.txt
+Call 3.txt
+
+// Clear the csv file
+//ClearLog "/Users/ulfzackrisson/Desktop/jautomatedata/scripts/searchLog.csv"
+
+Timestamp
+Set Date "{Timestamp}"
+Log "/Users/ulfzackrisson/Desktop/jautomatedata/scripts/searchLog.csv" , "{Date}" "Pricerunner test"

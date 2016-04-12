@@ -1,0 +1,9 @@
+MouseScroll -15
+Click "{ImageFolder}/1460457907702.png" 12 51
+Wait 2000
+Click "{ImageFolder}/1460458126827.png" 21 51
+Wait "{ImageFolder}/1460452973190.png"
+MouseMove "{ImageFolder}/1460458608307.png" 41 47
+Click "{ImageFolder}/1460459020851.png" 12 73
+Wait "{ImageFolder}/1460452973190.png"
+Click "{ImageFolder}/1460459166191.png" 49 28

@@ -1,0 +1,8 @@
+Click "{ImageFolder}/14604512736380.png"
+Click "{ImageFolder}/14604512736681.png"
+Wait 1000
+Click "{ImageFolder}/14604512736892.png"
+Type pricerunner.se
+Type [ENTER]
+Wait "{ImageFolder}/1460452973190.png"
+Click "{ImageFolder}/1460452127124.png" 28 48

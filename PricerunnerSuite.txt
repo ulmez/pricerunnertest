@@ -1,0 +1,9 @@
+Begin Settings
+	StopIfFailed No
+	WaitStableScreen Yes
+	ManualRecovery Yes
+	Doctor No
+End
+Call 1.txt
+Call 2.txt
+Call 3.txt
